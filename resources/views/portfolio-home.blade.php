@@ -63,10 +63,10 @@
   <header>
 
     <!--Navbar-->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar aqua-gradient">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
       <div class="container">
         <a class="navbar-brand" href="#">
-          <strong>MDB</strong>
+          <strong>TECHWOLF</strong>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
           aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
@@ -75,7 +75,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="#">Home
+              <a class="nav-link" href="portfolio-home#">Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>
@@ -96,17 +96,16 @@
     </nav>
 
     <!-- Intro Section -->
-    <div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url(https://mdbootstrap.com/img/Photos/Others/gradient3.png); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+    <div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url(https://wonderfulengineering.com/wp-content/uploads/2014/04/code-wallpaper-38.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center;">
       <div class="mask rgba-indigo-slight">
         <div class="container h-100 d-flex justify-content-center align-items-center">
           <div class="row pt-5 mt-3">
             <div class="col-md-12 mb-3">
               <div class="intro-info-content text-center">
-                <h1 class="display-3 blue-text mb-5 wow fadeInDown" data-wow-delay="0.3s">ABOUT
-                  <a class="blue-text font-weight-bold">ME</a>
+                <h1 class="display-3 white-text mb-5 wow fadeInDown" data-wow-delay="0.3s">MEU
+                  <a class="black-text font-weight-bold">PORTFÓLIO</a>
                 </h1>
-                <h5 class="text-uppercase blue-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Lorem
-                  ipsum dolor sit amet</h5>
+                <h5 class="text-uppercase white-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Projetos & Serviços</h5>
               </div>
             </div>
           </div>
@@ -132,34 +131,29 @@
           <div class="col-md-12 mb-4" style="margin-top: -100px;">
 
             <div class="avatar mx-auto">
-              <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg" class="img-fluid rounded-circle z-depth-1"
+              <img src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.30808-6/271445794_4766800823410680_6375628259428892075_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=jLEedXh54M4AX_856wU&tn=XNCNZ9DiKlhZ_cMy&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT9vNU7VdLXjC8NLC2PkmTYr7S_EOpoUdwXsfc61qJTTGQ&oe=6338E19B" class="img-fluid rounded-circle z-depth-1"
                 alt="First sample avatar image">
             </div>
             <h3 class="my-3 font-weight-bold">
-              <strong>Anna Deynah</strong>
+              <strong>Victor Alcantara</strong>
             </h3>
-            <h6 class="font-weight-bold teal-text mb-4">Web Designer</h6>
+            <h6 class="font-weight-bold teal-text mb-4">Desenvolvedor Front End</h6>
 
             <!--Facebook-->
-            <a class="p-2 m-2 fa-lg fb-ic">
-              <i class="fab fa-facebook-f grey-text"> </i>
+            <a class ="p-2 m-2 fa-lg fb-ic" href="https://www.facebook.com/victor.flay">
+              <i class="fab fa-facebook grey-text"> </i>
             </a>
             <!--Twitter-->
-            <a class="p-2 m-2 fa-lg tw-ic">
-              <i class="fab fa-twitter grey-text"> </i>
+            <a class="p-2 m-2 fa-lg tw-ic" href="https://github.com/VictorFlay">
+              <i class="fab fa-github grey-text"> </i>
             </a>
             <!--Instagram-->
-            <a class="p-2 m-2 fa-lg ins-ic">
-              <i class="fab fa-instagram grey-text"> </i>
+            <a class="p-2 m-2 fa-lg ins-ic"href="https://www.linkedin.com/in/victor-hugo-viana-de-alcantara-60103117b/">
+              <i class="fab fa-linkedin grey-text"> </i>
             </a>
 
-            <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-              ut labore et dolore
-              magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-              commodo
-              consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-              pariatur.
-              Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim.</p>
+            <p class="mt-5">Desenvolvimento do front end de websites de todos os tipos. 
+              Seguem modelos do layout desenvolvido para diferentes seguimentos de atuação no mercado. Para entrar em contato para orçamentos, basta acessar o link sobre.</p>
 
           </div>
           <!--Grid column-->
