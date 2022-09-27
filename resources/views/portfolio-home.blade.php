@@ -206,21 +206,18 @@
 
                     <!--Grid column-->
                     <div class="col-md-6 mb-4">
-                      <div class="card card-image" style="background-image: url('https://mdbootstrap.com/img/Photos/Horizontal/Work/6-col/img%20(41).jpg');">
+                      <div class="card card-image" style="background-image: url('https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.30808-6/309250309_5551138858310202_2436601848178970270_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=0ZxFC2hyQV8AX-b22cI&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT_2Ze4FI0N9N8KQQIQL9e6PcQHSyrjmeuQEn1ECxPl_BQ&oe=63387F9C');">
 
                         <!-- Content -->
                         <div class="text-white text-center d-flex align-items-center rgba-blue-strong py-5 px-4">
                           <div>
                             <h3 class="mb-4 mt-4 font-weight-bold">
-                              <strong>Project title</strong>
+                              <strong>Tecnologia</strong>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat fugiat, laboriosam,
-                              voluptatem,
-                              optio vero odio nam sit officia accusamus minus error nisi architecto nulla ipsum
-                              dignissimos.
-                              Odit sed qui, dolorum!.</p>
-                            <a class="btn btn-outline-white btn-sm">
-                              <i class="fas fa-clone left"></i> View project</a>
+                            <p>Site voltado para o ramo de atuação em tecnologia. Focado em desenvolvimento e infraestrutura. 
+                              Além de apresentar layouts de menu com cards em formato carrossel para vendas</p>
+                            <a class ="btn btn-outline-white btn-sm"  href="home#">
+                              <i class="fas fa-clone left"></i> Ver Projeto</a>
                           </div>
                         </div>
                       </div>

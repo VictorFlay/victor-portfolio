@@ -136,7 +136,7 @@
                 <h1 class="display-3 mb-5 wow fadeInDown" data-wow-delay="0.3s">SOLUÇÕES EM
                   <a class="indigo-text font-weight-bold">TECNOLOGIA</a>
                 </h1>
-                <h5 class="text-uppercase mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Preço justo e serviço de qualidade</h5>
+                <h5 class ="text-uppercase mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Preço justo e serviço de qualidade</h5>
                 <a class="btn btn-outline-indigo btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="posts#">Posts</a>
                 <a class="btn btn-indigo btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="contato#">Contato</a>
               </div>
