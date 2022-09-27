@@ -33,6 +33,10 @@ Route::get('/servico', function () {
     return view('servico');
 });
 
+Route::get('/portfolio-home', function () {
+    return view('portfolio-home');
+});
+
 
 //routes>web.php     Caminho das rotas
 //resources>views>   Caminho das views
