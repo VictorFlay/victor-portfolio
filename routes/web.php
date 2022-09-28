@@ -37,6 +37,10 @@ Route::get('/portfolio-home', function () {
     return view('portfolio-home');
 });
 
+Route::get('/home-pizzaria', function () {
+    return view('home-pizzaria');
+});
+
 
 //routes>web.php     Caminho das rotas
 //resources>views>   Caminho das views
