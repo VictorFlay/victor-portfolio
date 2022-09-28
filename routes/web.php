@@ -37,8 +37,8 @@ Route::get('/portfolio-home', function () {
     return view('portfolio-home');
 });
 
-Route::get('/home-pizzaria', function () {
-    return view('home-pizzaria');
+Route::get('/pizzaria-home', function () {
+    return view('pizzaria-home');
 });
 
 
