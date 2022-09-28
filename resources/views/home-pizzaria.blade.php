@@ -101,7 +101,7 @@
   <header>
 
     <!--Navbar-->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top ">
       <div class="container">
         <a class="navbar-brand" href="#">
           <strong color="black">PIZZARIA</strong>
@@ -166,11 +166,8 @@
       <section class="section pb-3 wow fadeIn" data-wow-delay="0.3s">
 
         <!--Section heading-->
-        <h1 class="font-weight-bold text-center h1 my-5">Our bestsellers</h1>
+        <h1 class="font-weight-bold text-center h1 my-5">Mais Vendidas</h1>
         <!--Section description-->
-        <p class="text-center grey-text mb-5 mx-auto w-responsive">Lorem ipsum dolor sit amet, consectetur adipisicing
-          elit. Fugit, error amet numquam iure provident voluptate esse
-          quasi, veritatis totam voluptas nostrum quisquam eum porro a pariatur accusamus veniam.</p>
 
         <!--Grid row-->
         <div class="row">
@@ -183,7 +180,7 @@
 
               <!--Card image-->
               <div class="view overlay z-depth-1">
-                <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(36).jpg" class="card-img-top"
+                <img src="https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZMUS.jpg" class="card-img-top"
                   alt="">
                 <a>
                   <div class="mask rgba-white-slight"></div>
@@ -195,26 +192,22 @@
               <div class="card-body text-center no-padding">
                 <!--Category & Title-->
                 <a href="" class="text-muted">
-                  <h5>Blouse</h5>
+                  <h5>Pizzas</h5>
                 </a>
                 <h4 class="card-title">
                   <strong>
-                    <a href="">White Blouse</a>
+                    <a href ="red-text" class="red-text">Mussarela</a>
                   </strong>
                 </h4>
 
                 <!--Description-->
-                <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor.
+                <p class="card-text">Pizza de mussarela no forno a lenha
                 </p>
 
                 <!--Card footer-->
                 <div class="card-footer">
-                  <span class="float-left">59$
-                    <span class="discount">199$</span>
+                  <span class="float-center">40R$
                   </span>
-                  <span class="float-right">
-                    <a class="" data-toggle="tooltip" data-placement="top" title="Add to Wishlist">
-                      <i class="fas fa-heart"></i>
                     </a>
                   </span>
                 </div>
@@ -236,7 +229,7 @@
 
               <!--Card image-->
               <div class="view overlay z-depth-1">
-                <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(37).jpg" class="card-img-top"
+                <img src="https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZCLB.jpg" class="card-img-top"
                   alt="">
                 <a>
                   <div class="mask rgba-white-slight"></div>
@@ -248,26 +241,22 @@
               <div class="card-body text-center no-padding">
                 <!--Category & Title-->
                 <a href="" class="text-muted">
-                  <h5>Accessories</h5>
+                  <h5>Pizzas</h5>
                 </a>
                 <h4 class="card-title">
                   <strong>
-                    <a href="">Black hat</a>
+                    <a href="" class="red-text">Calabresa</a>
                   </strong>
                 </h4>
 
                 <!--Description-->
-                <p class="card-text">Neque porro quisquam est, qui dolorem ipsum quia dolor.
+                <p class="card-text">Pizza de calabresa com mussarela
                 </p>
 
                 <!--Card footer-->
                 <div class="card-footer">
-                  <span class="float-left">39$
-                    <span class="discount">99$</span>
+                  <span class="float-center">50R$
                   </span>
-                  <span class="float-right">
-                    <a class="active" data-toggle="tooltip" data-placement="top" title="Added to Wishlist">
-                      <i class="fas fa-heart"></i>
                     </a>
                   </span>
                 </div>
@@ -289,7 +278,7 @@
 
               <!--Card image-->
               <div class="view overlay z-depth-1">
-                <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(38).jpg" class="card-img-top"
+                <img src="https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZFQ.jpg" class="card-img-top"
                   alt="">
                 <a>
                   <div class="mask rgba-white-slight"></div>
@@ -301,26 +290,22 @@
               <div class="card-body text-center no-padding">
                 <!--Category & Title-->
                 <a href="" class="text-muted">
-                  <h5>Sweatshirt</h5>
+                  <h5>Pizzas</h5>
                 </a>
                 <h4 class="card-title">
                   <strong>
-                    <a href="">Flower sweatshirt</a>
+                    <a href="" class="red-text">Quatro Queijos</a>
                   </strong>
                 </h4>
 
                 <!--Description-->
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing minima.
+                <p class="card-text">Queijo, requeijão, gorgonzola, oregano e parmesão ralado
                 </p>
 
                 <!--Card footer-->
                 <div class="card-footer">
-                  <span class="float-left">79$
-                    <span class="discount">299$</span>
+                  <span class="float-center">69R$
                   </span>
-                  <span class="float-right">
-                    <a class="" data-toggle="tooltip" data-placement="top" title="Add to Wishlist">
-                      <i class="fas fa-heart"></i>
                     </a>
                   </span>
                 </div>
@@ -342,7 +327,7 @@
 
               <!--Card image-->
               <div class="view overlay z-depth-1">
-                <img src="https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/img%20(39).jpg" class="card-img-top"
+                <img src="https://cache.dominos.com/olo/6_94_4/assets/build/market/BR/_pt/images/img/products/larges/S_PIZFR.jpg" class="card-img-top"
                   alt="">
                 <a>
                   <div class="mask rgba-white-slight"></div>
@@ -354,27 +339,21 @@
               <div class="card-body text-center no-padding">
                 <!--Category & Title-->
                 <a href="" class="text-muted">
-                  <h5>Outwear</h5>
+                  <h5>Pizzas</h5>
                 </a>
                 <h4 class="card-title">
                   <strong>
-                    <a href="">Denim jacket</a>
+                    <a href="" class="red-text">Frango c/ requeijão</a>
                   </strong>
                 </h4>
 
                 <!--Description-->
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing minima.
+                <p class="card-text">Frango desfiado, cebola, oregano e requeijão
                 </p>
 
                 <!--Card footer-->
                 <div class="card-footer">
-                  <span class="float-left">79$
-                    <span class="discount">299$</span>
-                  </span>
-                  <span class="float-right">
-                    <a class="active" data-toggle="tooltip" data-placement="top" title="Added to Wishlist">
-                      <i class="fas fa-heart"></i>
-                    </a>
+                  <span class="float-center">65R$
                   </span>
                 </div>
 
