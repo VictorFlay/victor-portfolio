@@ -170,7 +170,7 @@
         <ul class="nav md-pills pills-default d-flex justify-content-center">
           <li class="nav-item">
             <a class="nav-link" data-toggle="tab" href="#panel11" role="tab">
-              <strong>Work</strong>
+              <strong>Trabalhos</strong>
             </a>
           </li>
           <li class="nav-item">
@@ -206,7 +206,7 @@
 
                     <!--Grid column-->
                     <div class="col-md-6 mb-4">
-                      <div class="card card-image" style="background-image: url('https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.30808-6/309250309_5551138858310202_2436601848178970270_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=0ZxFC2hyQV8AX-b22cI&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT_2Ze4FI0N9N8KQQIQL9e6PcQHSyrjmeuQEn1ECxPl_BQ&oe=63387F9C');">
+                      <div class="card card-image" style="background-image: url('https://www.brightcom.biz/wp-content/uploads/2017/10/Sfondo-scuro-1024x614.jpg');">
 
                         <!-- Content -->
                         <div class="text-white text-center d-flex align-items-center rgba-blue-strong py-5 px-4">
@@ -216,7 +216,7 @@
                             </h3>
                             <p>Site voltado para o ramo de atuação em tecnologia. Focado em desenvolvimento e infraestrutura. 
                               Além de apresentar layouts de menu com cards em formato carrossel para vendas</p>
-                            <a class ="btn btn-outline-white btn-sm"  href="home#">
+                            <a class ="btn btn-outline-white btn-sm" >
                               <i class="fas fa-clone left"></i> Ver Projeto</a>
                           </div>
                         </div>
@@ -541,8 +541,7 @@
       <div class="row">
         <div class="col-md-12">
 
-          <h5 class="my-5 d-flex justify-content-center">If you want to cooperate with me just send me a message at
-            office@mdbootstrap.com</h5>
+          <h5 class="my-5 d-flex justify-content-center">Deseja me contatar? Envie-me um E-mail em vhugoviana82@gmail.com</h5>
         </div>
       </div>
       <!--/First row-->
@@ -552,8 +551,8 @@
     <!--Copyright-->
     <div class="footer-copyright text-center py-3 wow fadeIn" data-wow-delay="0.3s">
       <div class="container-fluid">
-        &copy; 2019 Copyright:
-        <a href="https://mdbootstrap.com/docs/jquery/"> MDBootstrap.com </a>
+        &copy; 2022 Copyright:
+        <a href="https://mdbootstrap.com/docs/jquery/"> Techwolf Informática </a>
       </div>
     </div>
     <!--/Copyright-->
