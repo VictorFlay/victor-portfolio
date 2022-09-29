@@ -41,6 +41,10 @@ Route::get('/pizzaria-home', function () {
     return view('pizzaria-home');
 });
 
+Route::get('/pizzaria-cardapio', function () {
+    return view('pizzaria-cardapio');
+});
+
 
 //routes>web.php     Caminho das rotas
 //resources>views>   Caminho das views
