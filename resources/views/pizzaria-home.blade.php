@@ -147,8 +147,8 @@
                   <a class="red-text font-weight-bold">FORNO A LENHA</a>
                 </h1>
                 <h5 class="text-uppercase mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Delivery & Preços especiais</h5>
-                <a class="btn btn-outline-danger btn-lg wow fadeInDown" data-wow-delay="0.3s">Sobre</a>
-                <a class="btn btn-danger btn-lg wow fadeInDown" data-wow-delay="0.3s">Cardápio</a>
+                <a class="btn btn-outline-danger btn-lg wow fadeInDown" data-wow-delay="0.3s"href="pizzaria-sobre#">Sobre</a>
+                <a class="btn btn-danger btn-lg wow fadeInDown" data-wow-delay="0.3s" href="pizzaria-cardapio#">Cardápio</a>
               </div>
             </div>
           </div>
