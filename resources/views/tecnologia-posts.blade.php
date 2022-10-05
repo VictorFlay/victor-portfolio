@@ -94,7 +94,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
       <div class="container">
-        <a class="navbar-brand" href="home#"><strong>TECHWOLF</strong></a>
+        <a class="navbar-brand" href="tecnologia-home#"><strong>TECHWOLF</strong></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
           aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -102,13 +102,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="home#">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="portfolio-home#">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="servico#">Serviços</a>
+              <a class="nav-link" href="tecnologia-servico#">Serviços</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contato#">Contato</a>
+              <a class="nav-link" href="tecnologia-contato#">Contato</a>
             </li>
           </ul>
           <form class="form-inline">
@@ -130,8 +130,8 @@
                 <hr class="hr-light mt-4 wow fadeInDown" data-wow-delay="0.4s">
                 <h5 class="text-uppercase mb-5 white-text wow fadeInDown" data-wow-delay="0.4s"><strong>Ciência &
                     Tecnologia</strong></h5>
-                <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s" a href="home#">Home</a>
-                <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s">Sobre</a>
+                <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s" href="tecnologia-home#">Home</a>
+                <a class="btn btn-outline-white wow fadeInDown" data-wow-delay="0.4s" href="tecnologia-contato#">Contato</a>
               </div>
             </div>
           </div>

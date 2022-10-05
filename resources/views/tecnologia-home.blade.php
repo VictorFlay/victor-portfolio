@@ -3,7 +3,7 @@
 <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container-fluid">
-    <a class="navbar-brand" href="home#"><strong>TECHWOLF</strong></a>
+    <a class="navbar-brand" href="tecnologia-home#"><strong>TECHWOLF</strong></a>
       <button class="navbar-toggler" type="button" data-mdb-toggle="collapse"
         data-mdb-target="#navbarExample01" aria-controls="navbarExample01" aria-expanded="false"
         aria-label="Toggle navigation">
@@ -12,16 +12,16 @@
       <div class="collapse navbar-collapse" id="navbarExample01">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item active">
-            <a class="nav-link" aria-current="page" href="#">Home</a>
+            <a class="nav-link" aria-current="page" href="portfolio-home#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="servico#">Serviços</a>
+            <a class="nav-link" aria-current="page" href="tecnologia-servico#">Serviços</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="posts#">Posts</a>
+            <a class="nav-link" aria-current="page" href="tecnologia-posts#">Posts</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="contato#">Contato</a>
+            <a class="nav-link" aria-current="page" href="tecnologia-contato#">Contato</a>
           </li>
         </ul>
       </div>
@@ -37,7 +37,7 @@
       <div class="d-flex justify-content-center align-items-center h-100">
         <div class="text-white">
           <h1 class="mb-3">Techwolf Informática</h1>
-          <a class="btn btn-outline-light btn-lg" href="servico#" role="button">Serviços</a>
+          <a class="btn btn-outline-light btn-lg" href="tecnologia-servico#" role="button">Serviços</a>
         </div>
       </div>
     </div>
@@ -70,7 +70,7 @@
         <h4 class="mb-4"><strong>Vazamento indica que a RTX 4090 terá preço absurdo no lançamento</strong></h4>
         <p>A Nvidia está prestes a anunciar sua nova geração de placas de vídeo nos próximos dias durante sua conferência na GTC 2022, porém, algumas lojas já estão vazando os exemplares em listagens e até mesmo os preços dos produtos.</p>
         <p>by <a><strong>Tecmundo</strong></a>, 15/09/2022</p>
-        <a class="btn btn-primary" a href="posts#">Leia Mais</a>
+        <a class="btn btn-primary" a href="tecnologia-posts#">Leia Mais</a>
       </div>
 
     </div>
@@ -95,7 +95,7 @@
         <h4 class="mb-4"><strong>Samsung vai remover todos os botões dos seus celulares, diz rumor</strong></h4>
         <p>A Samsung deve remover todos os botões físicos dos seus smartphones em um futuro breve. De acordo com um rumor, a mudança fará com que todas as ações realizadas pelos botões (como aumentar ou reduzir o volume, e até desligar os aparelhos) sejam executadas apenas via software.</p>
         <p>by <a><strong>Tecmundo</strong></a>, 15/09/2022</p>
-        <a class="btn btn-primary" a href="posts#">Leia Mais</a>
+        <a class="btn btn-primary" a href="tecnologia-posts#">Leia Mais</a>
       </div>
 
     </div>
@@ -120,7 +120,7 @@
         <h4 class="mb-4"><strong>Telescópio Hubble fotografa espiral de estrelas; veja imagem</strong></h4>
         <p>Pesquisadores descobriram um grupo de estrelas jovens que está se movendo em espiral para o centro de um aglomerado eu uma galáxia próxima à nossa. Segundo os especialistas, esse movimento responde a perguntas que a astronomia ainda não tinha resposta.</p>
         <p>by <a><strong>Tecmundo</strong></a>, 15/09/2022</p>
-        <a class="btn btn-primary" a href="posts#">Leia Mais</a>
+        <a class="btn btn-primary" a href="tecnogia-posts#">Leia Mais</a>
       </div>
 
     </div>
@@ -145,7 +145,7 @@
         <h4 class="mb-4"><strong>GoPro Hero 11 Black é lançada por R$ 4.599 e ganha versão Mini</strong></h4>
         <p>Nesta quarta-feira (14), a GoPro Hero 11 Black foi lançada em três versões: a Hero 11 Black, Creator Edition e Mini. Com o mesmo design da sua antecessora, a mudança fica por conta de um novo sensor de imagem e da chegada de uma versão mais compacta.</p>
         <p>by <a><strong>Tecmundo</strong></a>, 15/09/2022</p>
-        <a class="btn btn-primary" a href="posts#">Leia Mais</a>
+        <a class="btn btn-primary" a href="tecnologia-posts#">Leia Mais</a>
       </div>
 
     </div>
@@ -156,44 +156,7 @@
 
 
 
-    <hr class="w-100 clearfix d-md-none">
 
-    <div class="col-md-2 ml-auto">
-      <h5 class="text-uppercase font-weight-bold">Links</h5>
-      <ul class="list-unstyled">
-        <li><a href="#!">Link 1</a></li>
-        <li><a href="#!">Link 2</a></li>
-        <li><a href="#!">Link 3</a></li>
-        <li><a href="#!">Link 4</a></li>
-      </ul>
-    </div>
-
-    <hr class="w-100 clearfix d-md-none">
-
-    <div class="col-md-2 ml-auto">
-      <h5 class="text-uppercase font-weight-bold">Links</h5>
-      <ul class="list-unstyled">
-        <li><a href="#!">Link 1</a></li>
-        <li><a href="#!">Link 2</a></li>
-        <li><a href="#!">Link 3</a></li>
-        <li><a href="#!">Link 4</a></li>
-      </ul>
-    </div>
-
-    <hr class="w-100 clearfix d-md-none">
-
-    <div class="col-md-2 ml-auto">
-      <h5 class="text-uppercase font-weight-bold">Links</h5>
-      <ul class="list-unstyled">
-        <li><a href="#!">Link 1</a></li>
-        <li><a href="#!">Link 2</a></li>
-        <li><a href="#!">Link 3</a></li>
-        <li><a href="#!">Link 4</a></li>
-      </ul>
-    </div>
-
-  </div>
-</div>
 
 <hr>
 
@@ -201,9 +164,8 @@
 
   <a class="btn-floating btn-fb"><i class="fab fa-facebook-f"> </i></a>
   <a class="btn-floating btn-tw"><i class="fab fa-twitter"> </i></a>
-  <a class="btn-floating btn-gplus"><i class="fab fa-google-plus-g"> </i></a>
   <a class="btn-floating btn-li"><i class="fab fa-linkedin-in"> </i></a>
-  <a class="btn-floating btn-dribbble"><i class="fab fa-dribbble"> </i></a>
+  <a class="btn-floating btn-whatsapp"><i class="fab fa-whatsapp"> </i></a>
 
 </div>
 

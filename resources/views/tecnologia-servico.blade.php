@@ -97,7 +97,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
       <div class="container">
-        <a class="navbar-brand" href="home#">
+        <a class="navbar-brand" href="tecnologia-home#">
           <strong>TECHWOLF</strong>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7"
@@ -107,15 +107,15 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="home#">Home
+              <a class="nav-link" href="portfolio-home#">Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="posts#">Posts</a>
+              <a class="nav-link" href="tecnologia-posts#">Posts</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contato#">Contato</a>
+              <a class="nav-link" href="tecnologia-contato#">Contato</a>
             </li>
           </ul>
           <form class="form-inline">
@@ -137,8 +137,8 @@
                   <a class="indigo-text font-weight-bold">TECNOLOGIA</a>
                 </h1>
                 <h5 class ="text-uppercase mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Preço justo e serviço de qualidade</h5>
-                <a class="btn btn-outline-indigo btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="posts#">Posts</a>
-                <a class="btn btn-indigo btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="contato#">Contato</a>
+                <a class="btn btn-outline-indigo btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="tecnologia-posts#">Posts</a>
+                <a class="btn btn-indigo btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="tecnologia-contato#">Contato</a>
               </div>
             </div>
           </div>

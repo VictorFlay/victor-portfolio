@@ -14,23 +14,23 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('home');
+    return view('portfolio-home');
 });
 
-Route::get('/posts', function () {
-    return view('posts');
+Route::get('/tecnologia-posts', function () {
+    return view('tecnologia-posts');
 });
 
-Route::get('/contato', function () {
-    return view('contato');
+Route::get('/tecnologia-contato', function () {
+    return view('tecnologia-contato');
 });
 
-Route::get('/home', function () {
-    return view('home');
+Route::get('/tecnologia-home', function () {
+    return view('tecnologia-home');
 });
 
-Route::get('/servico', function () {
-    return view('servico');
+Route::get('/tecnologia-servico', function () {
+    return view('tecnologia-servico');
 });
 
 Route::get('/portfolio-home', function () {

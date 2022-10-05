@@ -113,7 +113,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="pizzaria-home#">Home
+              <a class="nav-link" href="portfolio-home#">Home
                 <span class="sr-only">(current)</span>
               </a>
             </li>

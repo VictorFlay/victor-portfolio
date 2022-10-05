@@ -74,7 +74,7 @@
         <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div class="container-fluid">
-    <a class="navbar-brand" href="home#"><strong>TECHWOLF</strong></a>
+    <a class="navbar-brand" href="tecnologia-home#"><strong>TECHWOLF</strong></a>
       <button class="navbar-toggler" type="button" data-mdb-toggle="collapse"
         data-mdb-target="#navbarExample01" aria-controls="navbarExample01" aria-expanded="false"
         aria-label="Toggle navigation">
@@ -83,13 +83,13 @@
       <div class="collapse navbar-collapse" id="navbarExample01">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item active">
-            <a class="nav-link" aria-current="page" href="home#">Home</a>
+            <a class="nav-link" aria-current="page" href="portfolio-home#">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="servico#">Serviços</a>
+            <a class="nav-link" aria-current="page" href="tecnologia-servico#">Serviços</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="posts#">Posts</a>
+            <a class="nav-link" aria-current="page" href="tecnologia-posts#">Posts</a>
           </li>
         </ul>
       </div>
@@ -104,8 +104,8 @@
                         <div class="intro-info-content text-center">
                             <h1 class="display-3 white-text mb-5 wow fadeInDown" data-wow-delay="0.3s">SOBRE <a class="white-text font-weight-bold">NÓS</a></h1>
                             <h5 class="text-uppercase white-text mb-5 mt-1 font-weight-bold wow fadeInDown" data-wow-delay="0.3s">Techwolf Informática. Soluções em Tecnologia </h5>
-                            <a class="btn btn-light-blue btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="posts#">Posts</a>
-                            <a class="btn btn-indigo btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="servico#">Serviços</a>
+                            <a class="btn btn-light-blue btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="tecnologia-posts#">Posts</a>
+                            <a class="btn btn-indigo btn-lg wow fadeInDown" data-wow-delay="0.3s" a href="tecnologia-servico#">Serviços</a>
                         </div>
                     </div>
                 </div>
@@ -130,7 +130,7 @@
 
                         <div class="col-md-6 float-left">
                             <div class="avatar mx-auto mb-md-0 mb-3">
-                                <img src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.30808-6/271445794_4766800823410680_6375628259428892075_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=GbH8K41MuxoAX9LRQc8&tn=XNCNZ9DiKlhZ_cMy&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT-C4a67brlTQS2N-Y39sYZyDrjIOgeFrevrjS-2Fu101w&oe=63290F9B" class="z-depth-1" alt="First sample avatar image">
+                                <img src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.30808-6/271445794_4766800823410680_6375628259428892075_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0gMMSk7-UMIAX_0SOf6&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT8fldRk9EJB51EYLHSQvtE4o4QMQzQsDZcM413AOblT2A&oe=6342C4DB" class="z-depth-1" alt="First sample avatar image">
                             </div>
                         </div>
 

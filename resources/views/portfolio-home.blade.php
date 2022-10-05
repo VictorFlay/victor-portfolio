@@ -131,7 +131,7 @@
           <div class="col-md-12 mb-4" style="margin-top: -100px;">
 
             <div class="avatar mx-auto">
-              <img src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.30808-6/271445794_4766800823410680_6375628259428892075_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=jLEedXh54M4AX_856wU&tn=XNCNZ9DiKlhZ_cMy&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT9vNU7VdLXjC8NLC2PkmTYr7S_EOpoUdwXsfc61qJTTGQ&oe=6338E19B" class="img-fluid rounded-circle z-depth-1"
+              <img src="https://scontent.fcgh10-1.fna.fbcdn.net/v/t39.30808-6/271445794_4766800823410680_6375628259428892075_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=0gMMSk7-UMIAX_0SOf6&_nc_ht=scontent.fcgh10-1.fna&oh=00_AT8fldRk9EJB51EYLHSQvtE4o4QMQzQsDZcM413AOblT2A&oe=6342C4DB" class="img-fluid rounded-circle z-depth-1"
                 alt="First sample avatar image">
             </div>
             <h3 class="my-3 font-weight-bold">
@@ -216,7 +216,7 @@
                             </h3>
                             <p>Site voltado para o ramo de atuação em tecnologia. Focado em desenvolvimento e infraestrutura. 
                               Além de apresentar layouts de menu com cards em formato carrossel para vendas</p>
-                            <a class ="btn btn-outline-white btn-sm" >
+                            <a class ="btn btn-outline-white btn-sm" href="tecnologia-home#">
                               <i class="fas fa-clone left"></i> Ver Projeto</a>
                           </div>
                         </div>
@@ -226,21 +226,17 @@
 
                     <!--Grid column-->
                     <div class="col-md-6 mb-4">
-                      <div class="card card-image" style="background-image: url('https://mdbootstrap.com/img/Photos/Horizontal/Work/6-col/img%20(14).jpg');">
+                      <div class="card card-image" style="background-image: url('https://pastapizza.com.br/wp-content/uploads/2017/07/Pizza-Pizzaria-Forno-Forza-Express.jpg');">
 
                         <!-- Content -->
                         <div class="text-white text-center d-flex align-items-center rgba-teal-strong py-5 px-4">
                           <div>
                             <h3 class="mb-4 mt-4 font-weight-bold">
-                              <strong>Project title</strong>
+                              <strong>Pizzaria</strong>
                             </h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat fugiat, laboriosam,
-                              voluptatem,
-                              optio vero odio nam sit officia accusamus minus error nisi architecto nulla ipsum
-                              dignissimos.
-                              Odit sed qui, dolorum!.</p>
-                            <a class="btn btn-outline-white btn-sm">
-                              <i class="fas fa-clone left"></i> View project</a>
+                            <p>Site modelo de pizzaria criado para visualização de clientes em potencial. Cardápio com cards e página de contato apresentando mapas.</p>
+                            <a class="btn btn-outline-white btn-sm" href="pizzaria-home#">
+                              <i class="fas fa-clone left" ></i> Ver projeto</a>
                           </div>
                         </div>
                       </div>
